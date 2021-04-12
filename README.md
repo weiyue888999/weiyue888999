@@ -2,8 +2,6 @@
 
 一位现代Java程序员
 
-座右铭 写代码能发家致富
-
 个人博客  https://www.cnblogs.com/weiguangyue
 
 
